@@ -1,1 +1,2 @@
-Sunil Chethan ijiji
+Sunil Chethan 
+merging the data in the same files of different branches 
